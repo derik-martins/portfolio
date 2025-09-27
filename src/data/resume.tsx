@@ -10,8 +10,8 @@ export const DATA = {
   description:
     "Desenvolvedor focado em IA e dados, com experiência multi-cloud e automação. Crio soluções inteligentes com Python e Machine Learning. ",
   summary:
-    "Com expertise em IA & Dados, sou aluno do Geração Caldeira 2025 (LinkedIn | Geração Caldeira). Desenvolvi um portal exclusivo para a trilha e um assistente virtual por voz (Portal | Assistente). Crio soluções com Python, Flask e Machine Learning, utilizando multi-cloud e CI/CD. Transformo dados em produtos inteligentes e inovadores, entregando valor real aos negócios.",
-  avatarUrl: "/me.png",
+    "Com expertise em IA & Dados, sou aluno do Geração Caldeira 2025 ([LinkedIn](https://www.linkedin.com/in/derik-s-martins/) | [Geração Caldeira](https://www.geracaocaldeira.org/)). Desenvolvi um portal exclusivo para a trilha e um assistente virtual por voz ([Portal](https://github.com/derik-martins) | [Assistente](https://github.com/derik-martins/neves-ai)). Crio soluções com Python, Flask e Machine Learning, utilizando multi-cloud e CI/CD. Transformo dados em produtos inteligentes e inovadores, entregando valor real aos negócios.",
+  avatarUrl: "/me-img.png",
   skills: [
     "Desenvolvimento de Software",
     "Python",
