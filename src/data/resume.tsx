@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { CodeXml, HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "derik Martins",
+  name: "derik martins",
   initials: "DM",
   url: "https://derikmartins.me",
   location: "Porto Alegre, RS",
