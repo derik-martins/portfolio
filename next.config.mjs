@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  output: 'export',
+  // Removendo output: 'export' para permitir servidor Next.js
   trailingSlash: true,
   assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
 };
