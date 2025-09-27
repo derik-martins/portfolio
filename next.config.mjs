@@ -4,9 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Removendo output: 'export' para permitir servidor Next.js
+  // Configuração otimizada para DigitalOcean App Platform
   trailingSlash: true,
-  assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
 };
 
 export default nextConfig;
