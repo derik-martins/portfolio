@@ -65,7 +65,7 @@ export const DATA = {
       href: "https://www.linkedin.com/company/teco-academy-org/",
       location: "Alvorada, RS",
       title: "Founder & Project Lead",
-      logoUrl: "/teco-logo.jpeg",
+      logoUrl: "/teco-logo.jpg",
       start: "Setembro 2025",
       end: "Atual",
       description:
@@ -77,7 +77,7 @@ export const DATA = {
       badges: [],
       location: "Porto Alegre, RS",
       title: "Desenvolvedor de Software Interno",
-      logoUrl: "/sis-logo.jpeg",
+      logoUrl: "/sis-logo.jpg",
       start: "Maio 2025",
       end: "Atual",
       description:
@@ -89,7 +89,7 @@ export const DATA = {
       badges: [],
       location: "Porto Alegre, RS",
       title: "Estagiário de Suporte N1",
-      logoUrl: "/logo-cib.jpeg",
+      logoUrl: "/logo-cib.jpg",
       start: "Março 2025",
       end: "Maio 2025",
       description:
@@ -113,7 +113,7 @@ export const DATA = {
       badges: [],
       location: "Porto Aleggre, RS",
       title: "Desenvolvedor Web Freelancer e Administrador de Sistemas",
-      logoUrl: "/logo-monge.jpeg",
+      logoUrl: "/logo-monge.jpg",
       start: "Junho 2023",
       end: "Atual",
       description:
@@ -155,7 +155,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/neves-orbe.jpeg",
+      image: "/neves-orbe.jpg",
       video:
         "",
     },

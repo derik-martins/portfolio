@@ -2,15 +2,15 @@ import BlurFade from "@/components/magicui/blur-fade";
 import Image from "next/image";
 
 const imagePaths = [
-  "/gallery/img-01.jpeg", // substitua pelo nome real do arquivo se necessário
-  "/gallery/img-02.jpeg",
-  "/gallery/img-07.jpeg",
-  "/gallery/img-09.jpeg",
-  "/gallery/img-03.jpeg",
-  "/gallery/img-06.jpeg",
-  "/gallery/img-05.jpeg",
-  "/gallery/img-08.jpeg",
-  "/gallery/img-04.jpeg",
+  "/gallery/img-01.jpg", // substitua pelo nome real do arquivo se necessário
+  "/gallery/img-02.jpg",
+  "/gallery/img-07.jpg",
+  "/gallery/img-09.jpg",
+  "/gallery/img-03.jpg",
+  "/gallery/img-06.jpg",
+  "/gallery/img-05.jpg",
+  "/gallery/img-08.jpg",
+  "/gallery/img-04.jpg",
 ];
 
 // Mantém a alternância de tamanhos
