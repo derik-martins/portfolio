@@ -1,5 +1,5 @@
-/* eslint-disable @next/next/no-img-element */
 import BlurFade from "@/components/magicui/blur-fade";
+import Image from "next/image";
 
 const imagePaths = [
   "/gallery/img-01.jpeg", // substitua pelo nome real do arquivo se necessário
@@ -47,7 +47,7 @@ export function PhotosGallery() {
         <div className="columns-2 gap-4 sm:columns-3 max-w-4xl mx-auto">
           {images.map((img, idx) => (
             <BlurFade key={img.src} delay={0.25 + idx * 0.05} inView>
-              <img
+              <Image
                 className="mb-4 size-full rounded-lg object-cover"
                 src={img.src}
                 alt={`Foto da galeria ${idx + 1}`}
