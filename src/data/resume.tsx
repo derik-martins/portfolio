@@ -31,12 +31,12 @@ export const DATA = {
     { href: "#projects", icon: CodeXml, label: "Projects" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "deriksilvamartins2006@gmail.com",
+    tel: "+5551998834421",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/derik-martins",
         icon: Icons.github,
 
         navbar: true,
